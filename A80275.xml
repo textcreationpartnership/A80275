@@ -1,0 +1,624 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A compendious narration of the most examplar life of the right honourable and most virtuous Lady Mary, late Countess of Shrewsbury Faithfully collected out of the writings of a most learned and worthy person who attended her many years: by a gentleman, who by reason of his long acquaintance and much conversation with her can testifie the truth of all that is here related.</title>
+            <author>Gentleman.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 59 KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80275</idno>
+            <idno type="STC">Wing C5608A</idno>
+            <idno type="STC">ESTC R224366</idno>
+            <idno type="EEBO-CITATION">99896954</idno>
+            <idno type="PROQUEST">99896954</idno>
+            <idno type="VID">135688</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80275)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135688)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2462:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A compendious narration of the most examplar life of the right honourable and most virtuous Lady Mary, late Countess of Shrewsbury Faithfully collected out of the writings of a most learned and worthy person who attended her many years: by a gentleman, who by reason of his long acquaintance and much conversation with her can testifie the truth of all that is here related.</title>
+                  <author>Gentleman.</author>
+               </titleStmt>
+               <extent>[2], 61, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Shrewsbury, Mary Talbot, --  Countess of, d. 1636 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135688:1"/>
+            <pb facs="tcp:135688:1"/>
+            <p>A Compendious NARRATION OF THE Moſt Examplar LIFE OF THE Right Honourable and Moſt Vir<g ref="char:EOLhyphen"/>tuous Lady <hi>Mary,</hi> Late Coun<g ref="char:EOLhyphen"/>teſs of <hi>Shrewsbury.</hi>
+            </p>
+            <p>Faithfully Collected out of the Wri<g ref="char:EOLhyphen"/>tings of a moſt Learned and Worthy Perſon who attended her many Years:</p>
+            <p>By a Gentleman, who by reaſon of his long acquaintance and much converſation with her can teſtifie the truth of all that is here related.</p>
+            <p>Printed in the Year, 1677.</p>
+         </div>
+      </front>
+      <body>
+         <div type="biography">
+            <pb facs="tcp:135688:2"/>
+            <pb n="1" facs="tcp:135688:2"/>
+            <div type="part">
+               <head>Her Birth and younger years.</head>
+               <p>IT was in the year of our Lord 1599. on the 4th of <hi>October,</hi> that this our Iſland, and particularly the City of <hi>Weſtminſter,</hi> was honoured by the birth of this Lady truly Noble by all Titles. It was in the houſe of her great Uncle by the half-bloud Sr. <hi>Tho<g ref="char:EOLhyphen"/>mas Parry</hi> Chancellor of the Dutchy, that ſhe firſt began her courſe of mor<g ref="char:EOLhyphen"/>tality, which ſhe ſo holily paſt over; and it fell out to be in a room which had been formerly a Chappel dedica<g ref="char:EOLhyphen"/>ted to God in honour of the moſt bleſ<g ref="char:EOLhyphen"/>ſed Virgin <hi>Mary</hi> his Mother, and on the Feaſt of the glorious Patriark St. <hi>Francis;</hi> a proper time and place for the birth of a perſon ſo much addicted to paſſe her time in the houſe of God, and ſo true an Imitatreſſe of the ver<g ref="char:EOLhyphen"/>tues of that great Queen of Heaven,
+<pb n="2" facs="tcp:135688:3"/>and that humble Saint. And as this happy creature (whoſe life I am now expoſing to publick view) was far from giving trouble to others throughout the whole courſe of her life, ſo alſo did ſhe give none to my Lady her mother in her very birth, who though ſhe had ſuffered hard la<g ref="char:EOLhyphen"/>bours of all the reſt of her children, and of ſome of them dangerous; yet in bringing her into the world, ſeem<g ref="char:EOLhyphen"/>ed as it were exempt by particular diſ<g ref="char:EOLhyphen"/>penſation from that common curſe layd by God upon the whole ſex: Her deſcent was very Noble on all ſides; her father was Sir <hi>Francis Forteſcu</hi> of <hi>Salden</hi> Knight of the Honourable Or<g ref="char:EOLhyphen"/>der of the <hi>Bath,</hi> a Gentleman of a very ancient knightly Family, he being an heir of Sr. <hi>John Forteſcu</hi> of the Privy Council to Queen <hi>Elizabeth</hi> and King <hi>James,</hi> and deſcended lineally through a race of noble Aunceſtors (many of whom had ſerved their Princes in e<g ref="char:EOLhyphen"/>minent charges both Military and Ci<g ref="char:EOLhyphen"/>vil, and were allyed by their marria<g ref="char:EOLhyphen"/>ges
+<pb n="3" facs="tcp:135688:3"/>to ſeveral of the Nobility;) in the 15th generation from Sr. <hi>Richard For<g ref="char:EOLhyphen"/>teſcu</hi> Knight, who came into <hi>England</hi> with the <hi>Norman</hi> conqueſt. Her Mo<g ref="char:EOLhyphen"/>ther the Lady <hi>Grace Forteſcu,</hi> as emi<g ref="char:EOLhyphen"/>nent for her virtue as her birth, was of the moſt illuſtrious Family of the <hi>Mannors,</hi> Earls of <hi>Rutland</hi> and Lord <hi>Roos,</hi> ſhe being grandchild to <hi>Thomas</hi> Niece unto <hi>Henry,</hi> and Aunt to <hi>John,</hi> all Earls of that place.</p>
+               <p>To this advantage of bloud God had added that of ſo amiable, and ſweet a diſpoſition, and of ſo ſolid and live<g ref="char:EOLhyphen"/>ly wit and judgment, that ſhe was grateful to all perſons, and very capa<g ref="char:EOLhyphen"/>ble of any knowledge, which her ſex is wont to poſſeſs: this ſhe made ap<g ref="char:EOLhyphen"/>pear, in her perfect and eaſy learning even of thoſe ornamental qualities, which took up the leaſt of her thoughts, and in which (according to the faſhion of other Ladies of conditi<g ref="char:EOLhyphen"/>on in thoſe times) ſhe was in her younger years brought up; Though after her being married (out of her
+<pb n="4" facs="tcp:135688:4"/>great modeſty, and almoſt continual application of her ſelf to employments of a higher ſtrain) ſhe never, but in juſt and unavoidable occaſions ſpent a<g ref="char:EOLhyphen"/>ny time in things of that nature.</p>
+               <p>But it is not my buſineſs here to play the Herald, and to blazon her extraction, or to dwell upon thoſe in<g ref="char:EOLhyphen"/>feriour tranſitory advantages of fleſh and bloud; my aym is to paint out the ornaments of her minde, and to ſhew how near ſhe was allied by her vertues to thoſe Princes of heaven, the conſtant attendants on the Throne of God. Of thoſe great virtues, which were ſo e<g ref="char:EOLhyphen"/>minently practiſed by her in her riper age, ſhe gave many auſpicious prog<g ref="char:EOLhyphen"/>noſticks even from her infancy, her love thereof and inclination to all acti<g ref="char:EOLhyphen"/>ons of piety growing up in her with her years, and even preventing them. No child could be more exactly duti<g ref="char:EOLhyphen"/>ful to her parents, in compliance with whom ſhe applyed her ſelf with that zealous diligence and ſucceſs to the gaining of a perfect knowledge and
+<pb n="5" facs="tcp:135688:4"/>underſtanding of all the myſteries and articles of her faith and duties of a Chriſtian, as alſo of the grounds of all the Ceremonies uſed in the Holy Church, that ſhe was capable in her very childhood of declaring and ex<g ref="char:EOLhyphen"/>plaining them to others, and even then gave ſo great a teſtimony of ſo unuſu<g ref="char:EOLhyphen"/>al a maturity of judgement both in her comportment, and all her actions, that ſhe was thought fit, and actually had leave of judicious and learned Ghoſtly Fathers to receive the moſt Bleſſed Sacrament of the Altar, before ſhe was yet arrived to ten years of age. And finally, ſhe grew to that degree of Chriſtian perfection even before ſhe could write young woman, that ſhe had an ardent deſire to give over the world, as ſoon in a manner as ſhe was entred into it, and dedicate her ſelf to God by imbracing a religious life for love of him. But her parents nei<g ref="char:EOLhyphen"/>ther giving way raſhly to thoſe deſires of hers, nor daring expreſly to oppoſe them, in regard of their great piety,
+<pb n="6" facs="tcp:135688:5"/>cauſed the caſe to be conſulted with Learned Religious men! And upon the caſting up of all circumſtances, wherein her delicacy of conſtitution, and continyency in point of health had a great part, they adviſed her to ſatisfy her ſelf with leading a virtuous life in the way of a ſecular calling: where<g ref="char:EOLhyphen"/>upon ſhe knowing that obedience (in ſome caſes) is better then ſacrifice, and weighing this truth in her wiſe heart, that no body (ſince he is a party) is fit to be a Judge in his own ways, applied her ſelf to walk as perfectly as ſhe could in that ſtate, to which her pa<g ref="char:EOLhyphen"/>rents, both ſpiritual and temporal, ad<g ref="char:EOLhyphen"/>viſed her: And in conſequence to theſe counſels and adviſe, ſhe was be<g ref="char:EOLhyphen"/>ſtowed by her friends in Marriage at the age of 16. upon that Noble Perſon <hi>John Tallbot</hi> then Eſquire, and after<g ref="char:EOLhyphen"/>wards Earl of <hi>Shrewsbury,</hi> Nephew and Heyr to that moſt Saintlike and Learn<g ref="char:EOLhyphen"/>ed Lord, <hi>George</hi> Earl of <hi>Shrewsbury,</hi> who reſolving to live wholly to God even in the world (as to all mens admirati<g ref="char:EOLhyphen"/>on
+<pb n="7" facs="tcp:135688:5"/>he did) diſpoſed his Nephew in Marriage to this Lady, and ſetled his whole Eſtate upon them and theirs. And in that condition ſhe lived moſt happily and holily (as will hereafter appear) above nineteen years.</p>
+            </div>
+            <div type="part">
+               <head>The manner how ſhe daily and conſtant<g ref="char:EOLhyphen"/>ly ſpent her whole time after ſhe was married.</head>
+               <p>WHen once this Lady was ſetled in the ſtate of Marriage, ſhe did ſo order and frame the courſe of her life; that living here upon earth, her converſation might be truly ſaid to be in heaven: Of this not only all her days, but even hours and mo<g ref="char:EOLhyphen"/>ments were convincing teſtimonies. As ſoon as ſhe roſe in the morning, which was Winter and Summer at an early hour, before ſhe thought of her dreſſe (the firſt and chief buſineſs of worldly Ladies) or ſpent any the leaſt time in that or any employment or diſ<g ref="char:EOLhyphen"/>courſe whatſoever, whereunto the
+<pb n="8" facs="tcp:135688:6"/>duty of her calling did not preciſely o<g ref="char:EOLhyphen"/>blige her, ſhe proſtrated her ſelf on her knees, and in that devout poſture paſſed a full half hower with profound ſilence of the tongue, but with vehe<g ref="char:EOLhyphen"/>ment affection of the heart, in offering to God that gratefull Incenſe of de<g ref="char:EOLhyphen"/>vout prayer, accompanied with acts of an ardent love of his divine Majeſty, of a moſt ſenſible gratitude for all be<g ref="char:EOLhyphen"/>nefits, and an entire reſignation of her ſelf, and all her concerns unto his di<g ref="char:EOLhyphen"/>ſpoſal, and likewiſe with a moſt hear<g ref="char:EOLhyphen"/>ty and zealous oblation of all her acti<g ref="char:EOLhyphen"/>ons, thoughts, and words to his ho<g ref="char:EOLhyphen"/>nour and Glory; and for the Petiti<g ref="char:EOLhyphen"/>oning part of her devotion, it aimed not at temporal bleſſings, but only at the obtaining of his grace to avoid ſin; and rather then to incur the guilt of any that was mortal, ſhe moſt con<g ref="char:EOLhyphen"/>ſtantly and earneſtly ſupplicated him to be deprived of all worldly advanta<g ref="char:EOLhyphen"/>ges, and pleaſures whatſoever, and e<g ref="char:EOLhyphen"/>ven of what is moſt dear to all man<g ref="char:EOLhyphen"/>kinde, life it ſelf; which with all ſin<g ref="char:EOLhyphen"/>cerity
+<pb n="9" facs="tcp:135688:6"/>of heart ſhe profeſſed her ſelf much readier to looſe, then his grace and favour, whereof ſin was only ca<g ref="char:EOLhyphen"/>pable to diſpoſſeſs her.</p>
+               <p>After this time of recollection, and a ſhort ſpace ſpent in her dreſs, where<g ref="char:EOLhyphen"/>in ſhe never ſtudied in the leaſt degree either pomp or vanity, but kept her ſelf within the compaſs of a modeſt decency, ſhe repaired to her Oratory, only uſed for divine ſervice, and there paſſed the far greateſt part of the re<g ref="char:EOLhyphen"/>maining time till dinner (which was uſually about Noon) in prayer and ſuch other exerciſes of piety as ſuited with that place. The Afternoon was no leſs piouſly ſpent then the morn<g ref="char:EOLhyphen"/>ing, for rarely did ſhe employ her ſelf leſs then ſix hours during thoſe two ſeaſons in thoſe holy actions in that place juſt before-mentioned, which was dedicated to Gods ſervice. Her going abroad to take the ayre, (which ſometimes ſhe uſed to do, out of her accuſtomed hours of devotion, which were regular and
+<pb n="10" facs="tcp:135688:7"/>conſtant, in order to her own and chil<g ref="char:EOLhyphen"/>drens health) never interrupted theſe her pious imployments; for even all that time, as far as a civil compliance with others (which ſhe never viola<g ref="char:EOLhyphen"/>ted) would allow of, was totally ſpent in them. Neither was her time of working, wherein ſhe employ'd her ſelf moſt, (except in her devotions) any diſtraction to her continued exer<g ref="char:EOLhyphen"/>ciſes of piety, ſince that imployment was uſually ever accompanied with the reading of ſome ſpiritual book in order to her dayly advancement in virtue.</p>
+               <p>But neither prayer nor any other employment occaſioned her omiſſion of that great duty which lay upon her in looking after the government of the Family which my Lord by reaſon of her great prudence committed wholly to her care. For ſhe frequently viſited all the Offices of the houſe, both to ſee good orders kept, and to enquire what was wanting in any kinde: In her timely ſupplying whereof, as ſhe was
+<pb n="11" facs="tcp:135688:7"/>moſt Conſcientiouſly wary in avoid<g ref="char:EOLhyphen"/>ing all waſtful expences, ſo was ſhe truly generous and noble, in not ſuf<g ref="char:EOLhyphen"/>fering the meaneſt of the ſervants to want any thing, that was uſually al<g ref="char:EOLhyphen"/>lowed to any one who ſerved in a moſt plentiful houſe; And I am ſure I may ſay by experience and knowledge, that this charge of hers was managed with ſo ſingular a conduct, that during her life, my Lords conſtant hoſpitality and plentiful way of houſe-keeping, as al<g ref="char:EOLhyphen"/>ſo the number and quality of his at<g ref="char:EOLhyphen"/>tendants, correſponded to the full to the greatneſs of his quality; And all this within the compaſſe of his Eſtate and Fortune, and according to the rules of a moſt orderly Chriſtianlike diſcipline. And of this generous hoſ<g ref="char:EOLhyphen"/>pitality the poor were conſtantly in great numbers (I may ſay multitudes) moſt ample partakers.</p>
+               <p>Her time after ſupper before her go<g ref="char:EOLhyphen"/>ing to reſt was as religiouſly ſpent as the reſt of the day; For ſhe always was emploied about an hour after her re<g ref="char:EOLhyphen"/>tirement
+<pb n="12" facs="tcp:135688:8"/>to her chamber (which was ever at an orderly hour) in the exami<g ref="char:EOLhyphen"/>nation of her conſcience, and ſuch de<g ref="char:EOLhyphen"/>votions, and other acts of piety as ſhe had uſed at her firſt up-riſing, and ſo cloſed the day in the ſame religious manner as ſhe had begun it; And this time of recollection paſſed ſo ſweetly with her, that ſhe would hardly be brought to believe that it laſted above a quarter of an hour, but when it was performed, ſhe made it her buſineſs, by avoyding all unneceſſary diſtra<g ref="char:EOLhyphen"/>cting diſcourſes, to keep her heart fix<g ref="char:EOLhyphen"/>ed all night upon him, with whom ſhe had been then ſo devoutly parlying.</p>
+               <p>And ſhe was ſo indefatigably con<g ref="char:EOLhyphen"/>ſtant in theſe her daily devotions, that when ſhe was hindred, (either by journeys, viſiting, or receiving the viſits of Friends, or any other juſt occa<g ref="char:EOLhyphen"/>ſion,) from performing them at her ac<g ref="char:EOLhyphen"/>cuſtomed orderly ſeaſons, ſhe would rather deny her ſelf time to take that corporal ſuſtenance, and rob thoſe hours from her reſt, which her ten<g ref="char:EOLhyphen"/>der
+<pb n="13" facs="tcp:135688:8"/>conſtitution required, then ever willingly be guilty of any leaſt omiſſi<g ref="char:EOLhyphen"/>on of any part of them. Even her childbeds and times of greateſt weak<g ref="char:EOLhyphen"/>neſs were never any bars or lets to her continual devout employments in ſuch manner as her condition would per<g ref="char:EOLhyphen"/>mit. She began the firſt pains of her labour, with a moſt humble and peni<g ref="char:EOLhyphen"/>tent confeſſion of her ſins, and as ſoon as poſſible, after her delivery, ſhe cauſed the Hymn of thoſe eminent Saints and Doctors St. <hi>Ambroſe</hi> and St. <hi>Auguſtine</hi> called <hi>te Deum</hi> to be ſaid by her, ſhe an<g ref="char:EOLhyphen"/>ſwering alternatively every other verſe; to the end that to Almighty God might be rendred moſt humble thanks for her ſafety, and that his mercy might be implored to take that childe into his particular care from whom ſhe had received that bleſſing, eſteemed one of the greateſt of a Ma<g ref="char:EOLhyphen"/>trimonial ſtate. And that ſhe might not be totally debarred from partaking perſonally of all the Churches devoti<g ref="char:EOLhyphen"/>ons during her lying in, ſhe cauſed
+<pb n="14" facs="tcp:135688:9"/>the Litany to be ſaid every evening in her chamber, and ſpent much of the day in glorifying God, partly by vo<g ref="char:EOLhyphen"/>cal, and partly by jaculatory prayers and aſpirations, and all thoſe holy exerciſes that were conſiſtent with her ſtrength and ability. And though ſhe could not at that time till ſhe were Churched be preſent at the divine ſer<g ref="char:EOLhyphen"/>vice (a devotion never omitted by her at other times) nor receive the moſt Bleſſed Sacrament, yet did ſhe not fail daily, even during the time of her be<g ref="char:EOLhyphen"/>ing confined to her bed, to ſpend that whole time when that ſervice was ce<g ref="char:EOLhyphen"/>lebrated (which ſhe took care to have ſignified to her) in prayer, with the ſame preparation, devotion, and appli<g ref="char:EOLhyphen"/>cation of her thoughts to thoſe high Myſteries there commemorated, as if ſhe had been actually preſent at it, and endeavouring to do it at leaſt in a ſpiritual manner by diſpoſing her ſelf thereunto in the ſame way, as if ſhe had been really to receive the effect of her longing, according to her con<g ref="char:EOLhyphen"/>ſtant
+<pb n="15" facs="tcp:135688:9"/>cuſtome at all times, when ſhe went not to this holy Communion; whereunto ſhe rarely or never omitted (the months of her childbed only ex<g ref="char:EOLhyphen"/>cepted) to have recourſe twice at leaſt, if not thrice every week; And her ſoul did ſo truly relliſh the deliciouſ<g ref="char:EOLhyphen"/>neſs of this divine Banquet, that ſhe would even have daily feaſted her ſelf therewith, had not her great humili<g ref="char:EOLhyphen"/>ty induced her to comply with thoſe guides of hers in ſpiritual matters, who judged it not fit for thoſe of a ſecular calling, ſince even Religious Perſons of that ſex, and of the other, Prieſts only excepted, are very rarely allowed that priviledge. Neither did ſhe ever approach this Sacrament without an extraordinary devotion, having firſt, according to St. <hi>Pauls</hi> adviſe, proved her ſelf by a moſt ſtrict <hi>examen</hi> of her conſcience, and alſo a moſt penitent and humble confeſſion, as the abun<g ref="char:EOLhyphen"/>dance of tears, uſually ſhed by her, when ſhe frequented that Sacrament, might ſufficiently teſtify, and which
+<pb n="16" facs="tcp:135688:10"/>often iſſued from her eyes in plenty when ſhe diſcourſed of her own im<g ref="char:EOLhyphen"/>perfections; and ſhe did even like and ther <hi>David</hi> water her bed with tears when her (I may truly ſay) too ten<g ref="char:EOLhyphen"/>der conſcience accuſed her of an thing that ſeemed to her to carry th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> appearance of a ſin, though it real<g ref="char:EOLhyphen"/>ly were not ſuch. And though all th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> chiefeſt part of her days were (as hat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> been ſufficiently teſtifyed) ſpent i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> prayer and other pious and devout em<g ref="char:EOLhyphen"/>ployments, yet were thoſe of Com<g ref="char:EOLhyphen"/>munion paſſed over altogether (in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> manner) in ſuch exerciſes; ſhe uſua<g ref="char:EOLhyphen"/>ly then (as much as poſſible) totall<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> retiring and withdrawing her ſe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> from all worldly buſineſs and conver<g ref="char:EOLhyphen"/>ſation. And her poſture in her pray<g ref="char:EOLhyphen"/>ers was for the moſt part ſo much up<g ref="char:EOLhyphen"/>on her knees, that at her death, the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> were found as hard as any board, o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> (like to what was ſaid of St. <hi>James</hi> th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Apoſtle) to have more reſemblanc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with the skin of a Camel, then wit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that of a Lady tenderly brought up, a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="17" facs="tcp:135688:10"/>ſhe was, and had a moſt pure skin and delicate conſtitution.</p>
+            </div>
+            <div type="part">
+               <head>Her lively Faith and great Charity.</head>
+               <p>AMongſt her other daily devotions ſhe never omitted to offer particu<g ref="char:EOLhyphen"/>lar thanks to God for that great and ſingular benefit of her having been bred up in the Catholick Faith, which ſhe knew to be the foundation of ju<g ref="char:EOLhyphen"/>ſtice and ſanctity, and without which ſhe knew it was impoſſible to pleaſe God, and that it was only to be obtain<g ref="char:EOLhyphen"/>ed by his gift; And therefore her ſoul was always full of gratitude for that great bleſſing, and ſhe was frequent in giving devout teſtimonies of it. And ſo zealous was ſhe in the profeſſi<g ref="char:EOLhyphen"/>of this only true faith, that when ſhe heard of any that ſuffered death, im<g ref="char:EOLhyphen"/>priſonment, loſſe of temporals, or any other vexation for that cauſe, ſhe fol<g ref="char:EOLhyphen"/>lowing the counſel of St. <hi>Peter,</hi> would glorifie God in them, and with a pious affection and emulation lament
+<pb n="18" facs="tcp:135688:11"/>her own cauſe, for that ſhe had nev<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> yet been thought worthy to ſuffer an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thing for confeſſing Chriſt befo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> men, who hath ſo graciouſly prom<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſed to confeſs ſuch before his Father <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> heaven.</p>
+               <p>Neither was this lively faith of he<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> unaccompanied with a truly ferve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Charity which as it is the Queen <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> all virtues, and ſo neceſſary th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> without it no other could be grate<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in the ſight of God, and Faith it ſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> were dead, ſo was it the ſtudy of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Noble Lady to excell therein.</p>
+               <p>And though her great deſire of d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> dicating her ſelf to the ſervice of A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> mighty God in the courſe of a relig<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ous life, and (that not being thoug<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fit for her by her parents and di<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ctours) her endeavors to turn a ſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>lar life into a monaſtical, by her co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tinual ſpending her time in exerci<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of piety, and ſo many hours daily prayer, as hath been already relate<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be moſt convincing and undenia<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> teſtimonies of her moſt ardent love
+<pb n="19" facs="tcp:135688:11"/>his divine Majeſty which is the prime <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd chief branch of this greateſt (if we may believe St. <hi>Paul</hi>) of the Theo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ogical virtues; yet for a farther evi<g ref="char:EOLhyphen"/>dence how ſtreightly that pure ſoul of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ers was linked to him with that gol<g ref="char:EOLhyphen"/>den chain of charity, ſhe never ſtain<g ref="char:EOLhyphen"/>ed that white Stole of Innocence, which ſhe received in Baptiſm by the committing of any one mortal ſin, ei<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her in thought, word, or deed, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hroughout the whole courſe of her <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ife; and by conſequence never loſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is grace and favour during all that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ime; And though all thoſe who were <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cquainted with her will finde no dif<g ref="char:EOLhyphen"/>ficulty to believe this as a moſt real <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ruth, (ſo very faint-like were her <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctions and converſation) yet is it ſo credibly atteſted by one who had the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oſt reaſon of any to know the in<g ref="char:EOLhyphen"/>ward ſtate of her ſoul, (as having had <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he guiding thereof for many years, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd having during that time been made more then once partaker of all <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he paſſages of her life wherein her
+<pb n="20" facs="tcp:135688:12"/>conſcience was concerned) that it can<g ref="char:EOLhyphen"/>not be brought in doubt by any rea<g ref="char:EOLhyphen"/>ſonable perſon whatſoever. And her averſion was ſo great from offending God, that though a moſt tender-heart<g ref="char:EOLhyphen"/>ed mother, ſhe would frequently of fer up her children to his divine Ma<g ref="char:EOLhyphen"/>jeſty, humbly and earneſtly ſupplica<g ref="char:EOLhyphen"/>ring him rather to take them out of the world, then ever to permit them to ſtain their ſouls with any morta<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſin; ſo much did ſhe prefer his ho<g ref="char:EOLhyphen"/>nour before the inclinations of fleſh and bloud, and the fulfilling of hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> holy Law above all the contents and comforts, which worldly people ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> much dote upon. Nor did her arden<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> love of God appear only in her avoid<g ref="char:EOLhyphen"/>ing of mortal ſin, and her ſollicitud<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that others ſhould do the ſame, bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> alſo in her vehement deſire of ren<g ref="char:EOLhyphen"/>dring her ſelf eminent in the practiſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of all manner of virtues, meerly t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pleaſe him; and the vehemency <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> theſe deſires would tranſport her to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> frequent lamenting of her own neg<g ref="char:EOLhyphen"/>ligence
+<pb n="21" facs="tcp:135688:12"/>and tepidity, and expreſſing <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er ſenſe thereof to to her ſpiritual <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>irectour, whoſe aſſiſtance, and ad<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſe ſhe would crave in order to a to<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al refraining from offending God, e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en by any the leaſt imperfection, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow at length ſhe might attain to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat height of virtue that might in<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ble her to be, and continue wholly <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is.</p>
+               <p>For his ſake and for love of him <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he honourd all the ſaints becauſe they were his faithful ſervants, and in the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rſt place the Virgin <hi>Mary</hi> his moſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>leſſed Mother, becauſe ſhe before all <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thers was the moſt grateful to him. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he did not honour them as Gods but <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s attendants upon his throne, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ho through the ſpecial aſſiſtance of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is grace have attained the beatifical <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſion for all eternity; for if it be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot only lawful but laudable, nay e<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en of obligation, and therefore plea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing to God, to honour and reverence <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>any here upon earth, who by their <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inful lives may have incurred his
+<pb n="22" facs="tcp:135688:13"/>high diſpleaſure, much more grate<g ref="char:EOLhyphen"/>ful muſt it be to him who is wonder<g ref="char:EOLhyphen"/>ful in his Saints, to honour the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> whom he hath honoured, with ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> king them co heirs with Chriſt, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> who now are ſubject no more t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the fraylties of humane nature, co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> tinually glorifying him in that hea<g ref="char:EOLhyphen"/>venly Jeruſalem whereinto nothing defiled with the leaſt ſpot can eve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> enter. And when ſhe read their live and actions, and ſaw therein how the had forſaken the world, and trample upon the delights thereof, and ded<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> cated themſelves totally to the ſervi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of his divine Majeſty, ſhe would b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as it were inflamed with a deſire <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> imitating them, and expreſſing he love to God, in as high and perfe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> a manner as they did, and wou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> grow unſatisfyed with her ſelf for n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> having followed the inclinations ſh<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> had in her tender age of entring in<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> a religious ſtate, till ſhe was ſecure by thoſe, that guided her conſcienc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that her obedience to her parents i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="23" facs="tcp:135688:13"/>the choiſe of her courſe of life was more acceptable to God, (conſidering how maturely and piouſly they had weighed all circumſtances) then a compliance with her own deſires, though they ſeemed to ſway her to that which carried an appearance of greater perfection. To the end there<g ref="char:EOLhyphen"/>fore that ſhe might ſerve him with as much perfection, and in the exacteſt manner that was conſiſtent with her calling, and to prevent her love to him from proving cool in the leaſt meaſure, ſhe often and with great favour renewed her good purpoſes, of all her daily pious exerciſes and employments, and eſpecially againſt great and ſolemn Feaſts, when his greateſt mercies and benefits were celebrated by the Church; and ſhe would be then particularly ſollicitous to crave the adviſe of her ſpiritual Directour, what acts of pennance or other devotions ſhe ſhould uſe, where<g ref="char:EOLhyphen"/>by to ſolemnize thoſe holy times, in the moſt agreeable manner to his di<g ref="char:EOLhyphen"/>vine
+<pb n="24" facs="tcp:135688:14"/>Majeſty, to the end ſhe might gain encreaſe of his grace, whom ſhe with all conſtant gratitude owned to be ſo large-hearted in beſtowing his favours upon all ſuch, as begged them devoutly, and prepared themſelves worthily to receive them.</p>
+               <p>
+                  <hi>In fine,</hi> ſo great was the love which this moſt pious Lady bore to her Lord and God, that it put her upon making purpoſes of faſts, and other auſtere and laborious acts of virtue, that far ex<g ref="char:EOLhyphen"/>ceeded her ſtrength and ability; and ſo little indulgent was ſhe to her ſelf, out of her deſire to perform any thing, though never ſo hard, that ſhe thought tended to his honour, on whom her love was only bent, that ſhe was wil<g ref="char:EOLhyphen"/>ling to look upon all thoſe purpoſes as obligations in conſcience, till ſhe was aſſured by thoſe who were her guides in ſpiritual matters, that they were not ſuch; but that ſhe was rather ty<g ref="char:EOLhyphen"/>ed from doing any thing that might be prejudicial to her health, wherein the good of many were concerned!</p>
+               <pb n="25" facs="tcp:135688:14"/>
+               <p>And though the ſame love of God prompted her to obey her ſpiritual Directors for his ſake, who for hers and all of us was obedient to the death of the croſſe, yet had the memory of thoſe ſufferings of his, ſuch an influ<g ref="char:EOLhyphen"/>ence upon her heart, that ſhe was de<g ref="char:EOLhyphen"/>ſirous to imitate him as much as ſhe might, and carry her croſſe after him according to his divine invitati<g ref="char:EOLhyphen"/>on, as far as her weak ſtrength would permit; and therefore would come as near to the obſervation of any peni<g ref="char:EOLhyphen"/>tential purpoſes, as ſhe was in any manner permitted; ſo that where faſt<g ref="char:EOLhyphen"/>ing was denied as to the matter of the quality of her meat, ſhe endea<g ref="char:EOLhyphen"/>voured to ſupply it by moderating the quantity thereof, and the ab<g ref="char:EOLhyphen"/>ſtaining from all kinde of delicacies in her diet; and the like ſhe did in all other purpoſes that tended to mortification. But in all others not judged (by reaſon of inconſiſtency with health and ability) unfit, ſhe was moſt zealouſly conſtant in the
+<pb n="26" facs="tcp:135688:15"/>performance of them, and particu<g ref="char:EOLhyphen"/>larly in her recourſe unto the holy Sa<g ref="char:EOLhyphen"/>craments, at certain times, when any ſpecial favour of God to her ſelf, or this Nation in particular, or the Ca<g ref="char:EOLhyphen"/>tholick Church in general, invited her grateful heart to expreſſe a reſentment of his mercies.</p>
+            </div>
+            <div type="part">
+               <head>Her Charity to her Neighbour.</head>
+               <p>FRom her moſt ardent love of Al<g ref="char:EOLhyphen"/>mighty God, and her conſtant de<g ref="char:EOLhyphen"/>ſire of expreſſing it, proceeded her ſo eminent practiſe of that moſt a<g ref="char:EOLhyphen"/>greable virtue to him, (I mean) her ſo very exemplar Charity to her neighbours, which mounted to ſo great an height, that ſhe was never ſatiated with imparting all both ſpiri<g ref="char:EOLhyphen"/>tuall and temporal comforts, that were poſſibly to be offorded by. And to de<g ref="char:EOLhyphen"/>ſcend to thoſe particulars, which may convince this truth, ſhe was never ſeen, or known to refuſe an alms, when it was asked, neither was ever
+<pb n="27" facs="tcp:135688:15"/>the neceſſity of any perſon repreſented to her, to the removal of which ſhe did not contribute with a moſt cheer<g ref="char:EOLhyphen"/>ful and bountiful hand; And it was a matter of complaint, and grief to her, whenſoever any of her domeſtical ſer<g ref="char:EOLhyphen"/>vants, as ſometimes it hapned, con<g ref="char:EOLhyphen"/>cealed the requeſts of any neceſſitous perſons, although relieved by them<g ref="char:EOLhyphen"/>ſelves; and ſhe was ſo zealouſly fear<g ref="char:EOLhyphen"/>ful of loſing any occaſion of feeding and cloathing Jeſus Chriſt in his little ones, that to prevent it, ſhe always lodged moneys in the hands of her Porter, and others, for relief of the poor, over and above that plentiful alms which was conſtantly given at the gates. And beſides theſe acciden<g ref="char:EOLhyphen"/>tal expreſſions of her great charity which were nevertheleſs very fre<g ref="char:EOLhyphen"/>quent, and as it were daily, ſhe had diverſe perſons, her conſtant Penti<g ref="char:EOLhyphen"/>oners, whom ſhe wholly maintained, and though ſometimes by reaſon of her change of dwelling, they were far ab<g ref="char:EOLhyphen"/>ſent from her perſon, yet they were
+<pb n="28" facs="tcp:135688:16"/>never ſo from her thoughts, for ſhe was as ſollicitouſly careful to ſee them provided for in all kindes, as if ſhe had been expreſly obliged to do it under pain of ſin, and ſhe deſcended ſo far as with the labour of her own hands to make many neceſſaries for their cloathing, the which ſhe alſo fre<g ref="char:EOLhyphen"/>quently did for many of her poorer ſervants, over and above their compe<g ref="char:EOLhyphen"/>rent uſuall allowances: ſhe was ſo ex<g ref="char:EOLhyphen"/>act an obſerver of the laws of true Chriſtian charity, that ſhe was never willing to hear thoſe who demanded an alms for Gods ſake ſuſpected for counterfeits, for ſhe was as tender in preſerving their good names, as ſhe was in relieving their neceſſities, and therefore as much as poſſible hindred the ſtrict examination of things o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that nature. And although ſome times ſome were diſcovered and pro<g ref="char:EOLhyphen"/>ved to be ſuch, yet upon conſideration that the true motive of Alms was not to whom, but for whoſe ſake it was given; ſhe would not diſmiſs them
+<pb n="29" facs="tcp:135688:16"/>without being made partakers of her charity: for ſhe would urge, that moſt probably their great want was the true cauſe why they diſſembled lameneſs, blindneſs, and ſuch like infirmities, and that therefore to take away ſuch a temptation their neceſſities were to be relieved. And my Lord her husband was very complying with her in this compaſſionate relieving of others ne<g ref="char:EOLhyphen"/>ceſſities, and particularly when he was a winner at horſe-races or other Divertiſements, he moſt cheerfully, upon her ſuggeſtion and requeſt (which ſhe never failed to make him) employed no ſmall part of his win<g ref="char:EOLhyphen"/>nings upon theſe charitable offices.</p>
+               <p>Neither was her charity only ex<g ref="char:EOLhyphen"/>preſſed in relieving the pecuniary wants of the poor, but alſo in an extra<g ref="char:EOLhyphen"/>ordinary diligence to contribute to the cure and eaſe of the ſick; To promote which pious work, ſhe provided her ſelf yearly, at fit ſeaſons, of all thoſe medicinal things, which are uſually applied to the relief of corporal infir<g ref="char:EOLhyphen"/>mities;
+<pb n="30" facs="tcp:135688:17"/>and ſhe was no leſs carefu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in providing, then liberal in beſtow<g ref="char:EOLhyphen"/>ing them, whenſoever neceſſity re<g ref="char:EOLhyphen"/>quired: and ſo great was her chari<g ref="char:EOLhyphen"/>table compaſſion of ſick perſons, tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhe not only afforded them bountiful remedies for their diſeaſes, but eve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> charged thoſe ſervants about her ow<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> perſon not to fail of giving them a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> neceſſary attendance; and to encou<g ref="char:EOLhyphen"/>rage them in ſo good an action by ex<g ref="char:EOLhyphen"/>ample, ſhe did frequently viſit th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> meaneſt of her own domeſticks, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> others; even when the loathſomneſs<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the diſeaſe, and rooms where the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> lodged, were capable to divert thoſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> who were indulgent, in pleaſing thei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſenſes, from coming near them; a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> did both miniſter remedies and othe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> aſſiſtances with her own hands, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſpend much time in praying by the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bed-ſides, and endeavouring to giv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> them all ſpiritual comforts that ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> was capable of affording them.</p>
+               <p>Neither was her compaſſionat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſenſe of the ſufferance of priſoners leſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="31" facs="tcp:135688:17"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen that which ſhe ſhewed to have of the wants and infirmities of others, for ſhe was highly charita<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le in the relief of all thoſe (al<g ref="char:EOLhyphen"/>though meer ſtrangers) whom ſhe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eard to endure that great calamity of reſtraint of liberty.</p>
+               <p>All her promiſes made even in her <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oung and tender age that tended to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he relieving of others neceſſities, or <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>night be conducing to their advan<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ages either ſpiritual, or corporal, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hough not made with that delibe<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ation that might oblige her (under <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in) to performance, were as religi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſly obſerved as vows, and even ſo <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xactly (if not ſcrupulouſly) that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he was hardly ever ſatisfied to have ſufficiently complied with thoſe no<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>way-obliging promiſes, without the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>udgment, and authority of her <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>piritual Directour; and ſhe would <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>requently regret her own too dull <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mitation of that famous patriarch
+<pb n="32" facs="tcp:135688:18"/>of <hi>Alexandria, John</hi> ſirnamed th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Almes-giver</hi> for his great liberality in acts of charity.</p>
+               <p>If then Alms be of ſo great force and virtue, as to cleanſe and purif<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the ſoul, which no Chriſtian ca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> doubt of that gives credit to hol<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Scripture, where it is ſaid, <hi>Give Alme<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and all things be clean unto you,</hi> Luk<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 11.41. <hi>and as water quencheth fire<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſo doth Almes extinguiſh ſin;</hi> and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>the mercifull ſhall finde mercy,</hi> Ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 5.7. <hi>and he that giveth but one dr<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> of water for the love of God ſhall n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> loſe his reward: Mar.</hi> 40.10.4<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> How pure muſt her ſoul be, who bowels were ſo full of compaſſion<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and whoſe hands were ever open <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the poor; and what accumulated r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>wards ſhall ſhe receive from t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> bounty of God, who was ſo mero<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ful, and bountiful to his poor, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> cheerfully cloathing, feeding, and v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſiting them, or rather him in the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="33" facs="tcp:135688:18"/>For it may be truly ſaid fo this La<g ref="char:EOLhyphen"/>dy, what <hi>Job</hi> declared of himſelf, that ſhe denied not to the poor what they deſired, <hi>nor made the widdows eyes expect,</hi> nor <hi>did ſhe eat her bread a<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>one, but made the poor partakers with <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>her.</hi> This therefore being ſo great a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ruth, and ſo known by all that knew her, there will remain no wonder, if when ſhe was taken out of this world, and tranſlated to a better, there to enjoy the reward of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hoſe great virtues, which the mer<g ref="char:EOLhyphen"/>cy of God had plentifully infuſed in<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o her happy ſoul. The poor people <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n all places where ſhe had lived, but eſpecially in <hi>Worceſterſhire,</hi> where <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y reaſon of her longer abode, ſhe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad met with more occaſions of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xerciſing her Charity, did general<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y lament their loſſe with all poſſi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le expreſſions of ſorrow, as con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eiving themſelves by her death de<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rived of a moſt indulgent Mother; which part ſhe truly acted to the
+<pb n="34" facs="tcp:135688:19"/>life amongſt all, whoſe neceſſities obliged them to have recourſe to her aſſiſtance.</p>
+               <p>But her charity was not only ex<g ref="char:EOLhyphen"/>erciſed in relieving the corporal di<g ref="char:EOLhyphen"/>ſtreſſes of others, but flew an higher pitch, and made it ſelf appear in a moſt ardent zeal of aſſiſting the ſpiri<g ref="char:EOLhyphen"/>all wants and remedying the mala<g ref="char:EOLhyphen"/>dies of the ſoul: Her ever conſtant, and (as it may be truly called) in<g ref="char:EOLhyphen"/>flamed deſire of reclaiming all per<g ref="char:EOLhyphen"/>ſons from ſin, whom ſhe knew it con<g ref="char:EOLhyphen"/>cerned, and procuring them all thoſe helps from others, which her ſex rendred her incapable to afford them in her own perſon, were undeniable arguments how extraordinary he<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> zeal was of gaining ſouls to God.</p>
+               <p>Of this truth many of her acti<g ref="char:EOLhyphen"/>ons of this kinde might be particu<g ref="char:EOLhyphen"/>larized, were it not too unneceſſari<g ref="char:EOLhyphen"/>ly to ſwell this Relation with en<g ref="char:EOLhyphen"/>deavouring
+<pb n="35" facs="tcp:135688:19"/>to make that appear, whereof all that knew her were ſuf<g ref="char:EOLhyphen"/>ficiently convinced: Howſoever, it it will not be impertinent to touch briefly upon one of theſe her Acts of charity, in regard Almighty God did give ſuch a ſignall evidence, how grateful it was in his divine eyes, by a moſt wonderful, if not mira<g ref="char:EOLhyphen"/>culous preſervation of her from a ſtrange and dangerous accident which followed immediately after the per<g ref="char:EOLhyphen"/>formance of this good work. For having been to viſit a Noble Gentle<g ref="char:EOLhyphen"/>man her near Kinſman, whom ſhe knew to have fayled contrary to his judgment, by humane frailty, and to have led a life too conformable to ſuch a failing, and having (which was the ſole end of her viſit) with earneſt pious admonitions, and fer<g ref="char:EOLhyphen"/>vent prayers powred forth to God by his bed-ſide (to which his infirm condition had confin'd him) proved ſucceſsful in her endeavours, and
+<pb n="36" facs="tcp:135688:20"/>wrought ſo good an effect, that he became a moſt perfect penitent, by re<g ref="char:EOLhyphen"/>conciling himſelf to God, and ſo made a moſt happy end; having (I ſay) done this moſt charitable work, in her Return to her own Houſe, in a certain ſteep deſcent, near an high unfenced bridge of ſtone, her coach-horſes grew ſo unruly, that one of them kick'd down the coach-man from off his box, and ran violently to the bridge, and running in their full carrier over it, the coach fell ſuddainly into the River; and ſo high was the bridge, that it turned twice round in the falling, and at length lighted directly upon the wheels in the River, and in ſuch a part of it as was ſhallow, though ve<g ref="char:EOLhyphen"/>ry near the deepeſt part, which was capable to have overwhelmed it, had it been many yards higher then it was. In the fall the foremoſt horſes broke their tackling, and eſcaped the precipitation, but of the two
+<pb n="37" facs="tcp:135688:20"/>wheel-horſes, both of which, fell with the coach, the one, (and he who did the main miſchief by kick<g ref="char:EOLhyphen"/>ing down the coachman) broke his neck and was killed, the other fell with the coach without the leaſt hurt. All thoſe who knew this place, and particularly thoſe who attended her, and were eye-witneſ<g ref="char:EOLhyphen"/>ſes of the accident, and ſaw how free from all harm their Lady and her Wayting-Gentlewoman (which was all the company ſhe then had with her in the coach) remained after it, would not call this ſo total a preſervation by any other Name, then that of a Miraculous delive<g ref="char:EOLhyphen"/>rance; and certainly it can admit of no other interpretation, but of a malitious attempt of the Devil a<g ref="char:EOLhyphen"/>gainſt her, for having got a ſoul out of his power (of which he had been too long poſſeſſed) and a moſt particular tract of the divine Provi<g ref="char:EOLhyphen"/>dence, in rendring his malice inef<g ref="char:EOLhyphen"/>fectual.
+<pb n="38" facs="tcp:135688:21"/>For God was only in her thoughts when ſhe was falling (as ſhe confeſſed to one who had pow<g ref="char:EOLhyphen"/>er to ask her) ſhe being then actu<g ref="char:EOLhyphen"/>ally employed in making acts of love to his divine Majeſty to render thanks to whom for his ſo highly merciful a preſervation from this ſo great diſaſter, was the firſt thing ſhe did after her return home, before ſhe ſpoke to any one whomſoever; ſhe repairing immediatly to her Ora<g ref="char:EOLhyphen"/>tory to this moſt Chriſtian-like Ex<g ref="char:EOLhyphen"/>erciſe, and there reciting with great Devotion that pious Hymn (called <hi>Te Deum)</hi> compoſed by thoſe great Saints and Doctors of the Church St. <hi>Ambroſe,</hi> and St. <hi>Auguſtine,</hi> and uſed by all the faithful in ſolemn Thanksgivings to God for his bleſ<g ref="char:EOLhyphen"/>ſings and manifold mercies: theſe her high acts of charity ſo univerſally extended, render it needleſs to re<g ref="char:EOLhyphen"/>late how inceſſant the care was that ſhe took in the inſtruction of her
+<pb n="39" facs="tcp:135688:21"/>children in all the myſteries and duties of Chriſtian Religion, which ſhe would perſonally perform her ſelf, as ſoon as they came to thoſe years that rendred them capable thereof. Even as ſoon as they began to make any ſhew of ſpeaking, ſhe was ſollicitous, that before any other word, they might learn to pro<g ref="char:EOLhyphen"/>nounce the holy, and divine name of <hi>Jeſus,</hi> to which all knees bow, whether in Heaven or Earth, or elſe<g ref="char:EOLhyphen"/>where, and that their prayers might be the firſt diſcourſes that they might uſe, that ſo they might begin in the firſt place to ſpeak to God, to whom the firſt and chief honour is due; and in their Nurſes arms, when they were at any time brought home, her firſt careſs was, to ſigne them with the ſigne of the Croſs, and immediately to carry them to her Oratory, to offer them to his divine Majeſty and beg bleſſings for them. And as their age encreaſed,
+<pb n="40" facs="tcp:135688:22"/>ſhe did not fail to encourage them, no leſs by word then example, to the exerciſe of all virtues, and par<g ref="char:EOLhyphen"/>ticularly to a liberal, and compaſſi<g ref="char:EOLhyphen"/>onate relief of the poor, which Chriſt doth ſo expreſly own as done to himſelf. Neither was ſhe wanting to act the part of a Mother in this kinde towards the meaneſt of her ſervants, to whoſe being catechiſed, and taught all Chriſtian duties, ſhe with conſtant zeal contributed even perſonally, when need required, and of whoſe exact performance of all thoſe Obligations to which ei<g ref="char:EOLhyphen"/>ther the laws of God or of his ſpouſe the holy Catholick Church, tye her children; ſhe was ſo piouſ<g ref="char:EOLhyphen"/>ly ſollicitous, that they wanted nei<g ref="char:EOLhyphen"/>ther frequent admonitions to en<g ref="char:EOLhyphen"/>courage them to good, nor ſuch re<g ref="char:EOLhyphen"/>prehenſions as were requiſite to alter them from all evil. And all things relating to the diſcharge of their domeſtical employments were by her
+<pb n="41" facs="tcp:135688:22"/>moſt Chriſtian-like providence ſo ordered, as that they might not prove any hindrance to their atten<g ref="char:EOLhyphen"/>ding to the ſervice of God, or ren<g ref="char:EOLhyphen"/>dring him all due honour, by being preſent at divine ſervice, and all o<g ref="char:EOLhyphen"/>ther holy exerciſes, at times appoin<g ref="char:EOLhyphen"/>ted, by that authority which he hath left here on earth, aſſiſted by his ho<g ref="char:EOLhyphen"/>ly ſpirit, to guide and govern the ſpirituall kingdome of humane ſouls.</p>
+               <p>Seeing therefore it hath been made appear ſo evidently, how high and even ſupererrogatory a charity ſhe ſhewed both in relieving the corporal neceſſities, and alſo in contributing ſo efficatiouſly to the ſpiritual ad<g ref="char:EOLhyphen"/>vantages of others, It cannot cer<g ref="char:EOLhyphen"/>tainly enter eaſily into the ſuſ<g ref="char:EOLhyphen"/>pition of any rational perſon, but that ſhe was equally careful not to do any one the leaſt imaginable In<g ref="char:EOLhyphen"/>jury; I am ſure it would be inju<g ref="char:EOLhyphen"/>rious to her for any perſon to har<g ref="char:EOLhyphen"/>bour
+<pb n="42" facs="tcp:135688:23"/>ſuch a doubt in his breaſt. For how ſenſibly tender her conſcience was in all that concerned the re<g ref="char:EOLhyphen"/>putation of others, there are as ma<g ref="char:EOLhyphen"/>ny witneſſes as perſons, that knew her, who all with one mouth, avow that ſhe was never heard to ſpeak any the leaſt word, that might tend to the diminution of the credit of any one whatſoever, nor ever to uſe any deriding expreſſion or re<g ref="char:EOLhyphen"/>proach even in the reprehenſion of the meaneſt of her ſervants; But on the contrary ſide, her tongue was ever ready (how wary ſoever ſhe was in avoyding much diſcourſe) to defend the reputation, and excuſe the faults of others againſt thoſe ma<g ref="char:EOLhyphen"/>ny who are too apt both to miſre<g ref="char:EOLhyphen"/>preſent, and miſconſter the actions of their neighbours, and too uncha<g ref="char:EOLhyphen"/>ritably to rip up the memory of their failings; And all her reprehenſions even for the greateſt faults were ac<g ref="char:EOLhyphen"/>cording to Chriſts counſel, private<g ref="char:EOLhyphen"/>ly
+<pb n="43" facs="tcp:135688:23"/>given, for the concealment of their imperfections, and were ſeaſon<g ref="char:EOLhyphen"/>ed with ſo much ſweetneſs, that her anger was not only innocent but virtuous; And in compoſing all dif<g ref="char:EOLhyphen"/>ferences (which ſometimes happen in ſuch numerous Families as hers) between her ſervants, ſhe was a ve<g ref="char:EOLhyphen"/>ry Angel of peace, and was exactly careful, that even thoſe of the beſt quality that attended her, might do right to the very meaneſt without all partiality.</p>
+            </div>
+            <div type="part">
+               <head>Her Other Virtues.</head>
+               <p>WHen good principles are laid, the conſequences are general<g ref="char:EOLhyphen"/>ly ever clear: ſo that it ſeems a kinde of demonſtration, that ſo live<g ref="char:EOLhyphen"/>ly a faith, and ſo exemplar a Cha<g ref="char:EOLhyphen"/>rity as her ſoul was adorned with, muſt neceſſarily be accompanied with all other virtues; ſo fervent a lover of God could not but take
+<pb n="44" facs="tcp:135688:24"/>delight in the practiſe of all that which is agreeable in his ſight. How<g ref="char:EOLhyphen"/>ſoever I will endeavour briefly to ſhew how eminent ſhe was in all kindes: And to begin with that rarely to be found perfection in the feminine ſex of this latter age <hi>(mo<g ref="char:EOLhyphen"/>deſty);</hi> ſhe excelled therein in ſo high a degree, that her converſati<g ref="char:EOLhyphen"/>on and comportment, might ſeem commendable ever in a veiled vota<g ref="char:EOLhyphen"/>ry, much more in one of a ſecular calling; nothing ever appeared in her habit or dreſs, that might not merit a praiſe from the moſt ſcru<g ref="char:EOLhyphen"/>pulous obſerver of the rules of that virtue: And ſo careful was ſhe that none under her charge might offend therein, that ſhe permitted not her children to reade any books, without an aſſurance from her ſpi<g ref="char:EOLhyphen"/>ritual guides, that there was nothing in them contradictory to faith, or deſtructive to modeſty, much leſſe did ſhe allow them either to haunt
+<pb n="45" facs="tcp:135688:24"/>any company, or uſe any divertiſe<g ref="char:EOLhyphen"/>ment that might in the leaſt degree endanger the violation of that ſo much praiſed virtue by all pious per<g ref="char:EOLhyphen"/>ſons, and particularly commended by St. <hi>Peter</hi> the holy Apoſtle in theſe words, that the chaſte conver<g ref="char:EOLhyphen"/>ſation of Chriſtian Ladies was to be in <hi>fear,</hi> and their trimming not to be outward, as conſiſting in the curling of their hayr, 1 <hi>Pet.</hi> 3.4. adorning themſelves with cu<g ref="char:EOLhyphen"/>rious and coſtly clothes, but in the inwardneſs of heart, which is hid<g ref="char:EOLhyphen"/>den, and the incorruptibility <hi>of a quick and modeſt ſpirit, which indeed is highly rich in the ſight of God.</hi>
+               </p>
+               <p>Neither was her humility leſſe ce<g ref="char:EOLhyphen"/>lebrated by all that knew then her Modeſty; For ſhe not only made ap<g ref="char:EOLhyphen"/>pear this high virtue, truly high be<g ref="char:EOLhyphen"/>cauſe ſo eminently practiſed by the higheſt of all Creatures, the Mother of God, in avoiding as much as poſ<g ref="char:EOLhyphen"/>ſibly
+<pb n="46" facs="tcp:135688:25"/>her condition would permit, all things either of oftentation or pomp, whether it were in apparel, or any other real vanity, and in treating all perſons of what rank ſoever with all imaginable ſweetneſs and affabili<g ref="char:EOLhyphen"/>ty, though without any indiſcreet diminution of that dignity in which God had placed her, and which no Lady knew better how to comply with then her ſelf, but in that quinteſſence of this divine virtue, humbleneſs of heart, which ſtill mo<g ref="char:EOLhyphen"/>ved her to undervalue her ſelf, and to expreſſe to her ghoſtly Directour, ſo much affliction of minde, for her want of worth to merit thoſe many bleſſings God had beſtowed on her, both ſpiritual and temporal, upon account (as ſhe would frequently urge even with abundance of tears) of her many ſins and imperfections, inſomuch that he was forced for her comfort to uſe many perſwaſive diſ<g ref="char:EOLhyphen"/>courſes and reaſons, (which her life
+<pb n="47" facs="tcp:135688:25"/>and practiſe rendred abundantly convincing) that ſhe looked upon her few imperfections with magnify<g ref="char:EOLhyphen"/>ing glaſſes (for no great ſins ever ſtained her pure ſoul) and not through Opticks, which made a true diſcovery of them.</p>
+               <p>But as this true humility of hers would not permit her to take any notice of her own virtues, but kept her heart ſtill fixed on the conſide<g ref="char:EOLhyphen"/>ration of her own unworthineſs: (And ſo great did her own (ſmall) faults appear in her own ſight, that the very reflection on any the leaſt imperfection filled her eyes with tears, and her heart with ſor<g ref="char:EOLhyphen"/>row) ſo on the other ſide, no bo<g ref="char:EOLhyphen"/>dy was an higher magnifyer and eſteemer of the virtues of others; and principally when they ſhined in perſons of High degree, and would often bewail her ſelf for not imitating ſuch patterns, and parti<g ref="char:EOLhyphen"/>cularly
+<pb n="48" facs="tcp:135688:26"/>ſhe honoured, and frequent<g ref="char:EOLhyphen"/>ly celebrated in her Diſcourſe that remarkable example of great Ladies for piety, who truly trampled upon the pride and vanity of this world, the Counteſſe of <hi>Arundel</hi> (of the Lord <hi>D'Acres</hi> Family by birth;) be<g ref="char:EOLhyphen"/>twixt whom, and her ſelf there had paſſed many Teſtimonies of mutual kindneſs. And alſo that moſt ex<g ref="char:EOLhyphen"/>cellent Lord, the immediate Prede<g ref="char:EOLhyphen"/>ceſſor and Uncle of her Husband; <hi>George</hi> Earle of <hi>Shrewsbury,</hi> of whoſe great perfections ſhe was many years an eye-witneſs: upon whoſe death ſhe forthwith repaired to her ghoſtly Father, not with a heart filled with joy, according to the u<g ref="char:EOLhyphen"/>ſual ſtrain of worldly Ladies, for the honour that was thereby deſ<g ref="char:EOLhyphen"/>cended to her, but full of a deep ſenſe of her own unworthineſs to ſucceed ſo Saintlike a perſon in ſo eminent a degree, and therefore ear<g ref="char:EOLhyphen"/>neſtly begged the aſſiſtance of his
+<pb n="49" facs="tcp:135688:26"/>prayers, that ſhe might not ſoyle that honour by her ſins, but in ſome ſmall meaſure (at leaſt) imitate ſo good a preſident.</p>
+               <p>Neither was ſhe leſs eminent in that high virtue preferable before ſacrifice <hi>(Obedience,)</hi> in imitation of our Bleſſed Saviour and divine Ma<g ref="char:EOLhyphen"/>ſter, who for us was made obedi<g ref="char:EOLhyphen"/>ent to the death of the croſſe, and who (though above all laws) was for our ſakes content to ſubject him<g ref="char:EOLhyphen"/>ſelf to humane Ordinations. And ſhe did not only practiſe this virtue in ſo high a manner (as hath been already related) in never having been guilty of any mortal breach of his holy Commandments, but alſo by a moſt exact ſubmiſſion to all the Paſtors and Prelates of his holy Catholick Church, to whom he hath committed the cure of ſouls, and thoſe particularly, to whom by virtue of that authority ſhe had com<g ref="char:EOLhyphen"/>mitted
+<pb n="50" facs="tcp:135688:27"/>the regulation of her own conſcience, and ſpiritual concerns, with whom ſhe frequently conſul<g ref="char:EOLhyphen"/>ted about thoſe matters, and never failed in a ſtrict obſervance of their adviſes and directions.</p>
+               <p>And as to the duty of her own calling, and moſt punctual compli<g ref="char:EOLhyphen"/>ance with the obedience due from a wife to a husband, I may affirm, without being contradicted by any one that knew her (and her own conſtant family exceeded 60. per<g ref="char:EOLhyphen"/>ſons) that the fault would lye at the mens door if all marriages were not happy, if all wifes did but imitate her example: For as ſhe was moſt prudent in offering in an humble manner ſuch adviſes up<g ref="char:EOLhyphen"/>on juſt occaſion, as ſhe judged con<g ref="char:EOLhyphen"/>ducing to my Lord her husbands advantage, ſo did ſhe ever with all cheerfulneſs ſubmit to his determi<g ref="char:EOLhyphen"/>nation. And if he were at any time
+<pb n="51" facs="tcp:135688:27"/>indiſpoſed in health, ſhe not only expreſſed the tenderneſs of a moſt af<g ref="char:EOLhyphen"/>fectionate wife, in her ſenſe of his infirmity, and her ſollicitous provi<g ref="char:EOLhyphen"/>ding of all remedies for his recove<g ref="char:EOLhyphen"/>ry, but ever performed all the du<g ref="char:EOLhyphen"/>ties of a ſervant in his attendance; All which he hath with much gra<g ref="char:EOLhyphen"/>titude frequently acknowledged, af<g ref="char:EOLhyphen"/>firming, that during the ſpeace of above nineteen years wherein ſhe li<g ref="char:EOLhyphen"/>ved his wife, ſhe never gave him the leaſt cauſe of diſguſt; but that he received much conſtant content from her agreeable and complaſant converſation; and much benefit from her frequent, prudent, and pious counſels; and moſt of all from her exemplar practiſes: And I am ſure no perſon whatſoever, whether domeſtick, or other, whe<g ref="char:EOLhyphen"/>ther of the ſame Religion or a dif<g ref="char:EOLhyphen"/>ferent, had any difficulty to believe him; For ſo high was the eſteem of her virtues amongſt all, that e<g ref="char:EOLhyphen"/>very
+<pb n="52" facs="tcp:135688:28"/>ones mouth was full of her praiſes; And one Noble perſon (though of a different Religion) who made a condoling Viſit to my Lord after her death, ſpeaking in the general language, uſed by all, when ſhe was the Theme of the diſcourſe, ſaid to him, that he had no juſt cauſe to grieve for one <hi>who lived like a Saint upon earth, and now ſhined like an Angel in heaven.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Her laſt ſickneſs and Death.</head>
+               <p>AS her whole life was ſpent to<g ref="char:EOLhyphen"/>tally (in a manner) in ſucceſ<g ref="char:EOLhyphen"/>ſive acts of piety, and devotion, ſo did it pleaſe Almighty God in re<g ref="char:EOLhyphen"/>compence of her virtue, to grant her a moſt happy, and Chriſtian<g ref="char:EOLhyphen"/>like concluſion of it. Her very laſt employments, before ſhe was conſi<g ref="char:EOLhyphen"/>ned to her dying Chamber and bed, was a whole night (to wit, that of Chriſtmaſſe) ſpent, according to
+<pb n="53" facs="tcp:135688:28"/>her cuſtome, in acts of devotion, ſhe then joyning like a dutiful childe with her holy Mother the Catholick Church, in celebrating the birth of the Saviour of the world, and having then with her wonted pious preparation received the holy Euchariſt.</p>
+               <p>Immediately after ſo many hours ſpent in ſuch exerciſes, going to retire to her reſt, ſhe found her ſelf ſeiſed with a moſt unuſual coldneſs, and with ſo violent an heart ſickneſs, that ſhe concluded it to be mortal; yet nevertheleſs as ſhe had all her life ſhewed her ſelf in a moſt exem<g ref="char:EOLhyphen"/>plar manner a truly loving wife, ſo would ſhe now give dying Teſti<g ref="char:EOLhyphen"/>monies of it; For neither would ſhe quit my Lords chamber and Bed (which ſhe conceived her ſelf a<g ref="char:EOLhyphen"/>bout to quit for good and all) nor yet give him any diſturbance in it, but with all patience ſuppreſſed the
+<pb n="54" facs="tcp:135688:29"/>complaint of her ſickneſs in ſilence, not permitting any the leaſt noiſe to be made, by ſpeech or otherwiſe, or her bed to be warmed, or any act of indulgence to be uſed to her ſelf, that might tend to the diſquieting of him, whom ſome indiſpoſition had cauſed to retire ſooner; but lay quietly, full of pains, and as full of acts of con<g ref="char:EOLhyphen"/>firmity to the divine will, till he a<g ref="char:EOLhyphen"/>waked; then imparting to him the dangerous condition wherein ſhe conceived her ſelf, and with that tenderneſs that became ſo truly in<g ref="char:EOLhyphen"/>dulgent, and affectionate a parent, recommending her children to his favour and care, ſhe deſired in com<g ref="char:EOLhyphen"/>pliance with that obligation which lay upon her, to make uſe of thoſe means which God hath appointed for the preſervation of health, that Phiſitians might be ſent for, which my Lord being ſtruck to the heart with that ſad Good morrow ſhe had given him, did not fail to do with
+<pb n="55" facs="tcp:135688:29"/>all diligence, as knowing too well how much it concerned him to pre<g ref="char:EOLhyphen"/>ſerve ſo great a treaſure.</p>
+               <p>And though ſhe had by my Lords care the conſtant attendance of two or three of the ableſt Doctors then in <hi>Oxford (London</hi> being at too great a diſtance) and that they at the beginning ſeemed hopeful of her recovery, and failed not in the ap<g ref="char:EOLhyphen"/>plication of all thoſe Remedies their Art could ſuggeſt; yet it pleaſed God to render their endeavours in<g ref="char:EOLhyphen"/>effectual; for the violence of her ſickneſs encreaſed ſo faſt upon her, that according to her own opinion, who by his Divine permiſſion had taken a righter meaſure of her own Infirmity then they had, it proved the means of freeing her within a few days, of all the cares that at<g ref="char:EOLhyphen"/>tend a tranſitory life.</p>
+               <p>Her pains were extream, ſeaſing
+<pb n="56" facs="tcp:135688:30"/>her in the moſt ſenſible part (the prime ſeat of life) her heart, and her patience was equal; for ſhe was never heard to complain of, or la<g ref="char:EOLhyphen"/>ment her condition; but whenſoever ſhe was asked concerning it, her on<g ref="char:EOLhyphen"/>ly anſwer was, <hi>as it pleaſed God;</hi> upon whom her heart was wholly fixed: and in continuall applicati<g ref="char:EOLhyphen"/>ons of her ſelf to him, and in fer<g ref="char:EOLhyphen"/>vent prayers to implore his mercy and grace, the whole time of her ſickneſs was ſpent.</p>
+               <p>On the laſt day whereof, being the feaſt of the <hi>Holy Innocents,</hi> ſhe received Extream Unction with ad<g ref="char:EOLhyphen"/>mirable devotion, being ſo preſent to her ſelf, as to anſwer exactly to the Lytanies, and to reach out her own hands to be annointed.</p>
+               <p>The next day being the feaſt of St. <hi>Thomas of Canterbury,</hi> that famous Martyr and Champion of the Church,
+<pb n="57" facs="tcp:135688:30"/>(a day that was ever wont to be ſpent by her in a manner totally in devotion) about ſix of the Clock in the morning, juſt preciſely at the concluſion of thoſe devout prayers (called the Recommendation of the ſoul) uſed by the Catholick Church in the laſt Agonies of her children, did this great Servant of God end this mortal life, giving up her ſoul to him, whom ſhe ever loved, ſerved, and obeyed with her whole heart, as hath been (I ſuppoſe) ſufficiently evidenced by many moſt remarkable and undeniable teſtimo<g ref="char:EOLhyphen"/>nies.</p>
+               <p>And I think I may without diffi<g ref="char:EOLhyphen"/>culty gain credit, when I ſhall tell you, how univerſal a conſort of La<g ref="char:EOLhyphen"/>mentation there was in all that Fa<g ref="char:EOLhyphen"/>mily, at the approach of her death, when every one was conſidering how great a loſs they were to un<g ref="char:EOLhyphen"/>dergoe; not any but ſenſibly ſhared
+<pb n="58" facs="tcp:135688:31"/>in this affliction, ſeeing no children could have a more tender or careful Mother, no ſervants a more Indul<g ref="char:EOLhyphen"/>gent or charitable Miſtreſs, nor no Husband a more affectionate, and obe<g ref="char:EOLhyphen"/>dient Wife.</p>
+               <p>After her Death it appeared evi<g ref="char:EOLhyphen"/>dently to thoſe who had the ordering of her body for buriall, that ſhe had not only made a righter judgment of her danger, then her Phyſitians, but alſo of the quality of her Infir<g ref="char:EOLhyphen"/>mity, which ſhewed it ſelf by the great evacuation of bloud at her mouth, to have been an Impoſthume; ſhe having ſeveral times, ſome years before, intimated that ſhe conceived, that there was one gathering about, or near her heart, where ſhe felt her greateſt torment.</p>
+               <p>She lived 36 years, 2 months, and 26 days, and her Corps were with all convenient decency carried
+<pb n="59" facs="tcp:135688:31"/>to <hi>Albrington</hi> in <hi>Shropſhire,</hi> a Town belonging to the now Earles of <hi>Shrewsbury,</hi> and the uſuall place of Sepulture of that branch of that fa<g ref="char:EOLhyphen"/>mily, unto which that Earldome hath been deſcended theſe four laſt generations, and there it was inter<g ref="char:EOLhyphen"/>red in a Church dedicated to God in honour of St. <hi>Thomas of Canterbury,</hi> upon whoſe Feaſt ſhe died, and laid in the ſelf-ſame Vault with that of the late moſt Learned and holy <hi>George</hi> Earl of <hi>Shrewsbury,</hi> formerly mentioned, whoſe virtues ſhe did ſo effectually imitate.</p>
+               <p>She left behinde her 4 Sons and 3 Daughters (having buried 2 Sons during her life) to wit, the Lord <hi>George Tallbot,</hi> who died in his youth<g ref="char:EOLhyphen"/>ful age, and inherited the heroicall ſpirit of his great Name, but left no iſſue behinde him; <hi>Francis</hi> the ſecond Son, Earl after his Father, a Gentle<g ref="char:EOLhyphen"/>man generally eſteemed by all wor<g ref="char:EOLhyphen"/>thy
+<pb n="60" facs="tcp:135688:32"/>perſons, and as much lamented by all ſuch; who hath left iſſue, <hi>Charles</hi> the preſent hopeful Earl, and one other Son, and a Daughter the picture both in her face and humour of her Father: <hi>Edward</hi> the third Son kill'd in the late Civill Wars in the ſervice of his King at the Battle of <hi>York;</hi> and <hi>Gilbert</hi> the fourth and youngeſt Son ſtill living.</p>
+               <p>Her 3 Daughters were the Lady <hi>Frances,</hi> the Lady <hi>Katherine,</hi> and the Lady <hi>Mary,</hi> all were moſt praiſe<g ref="char:EOLhyphen"/>worthy for their excellent diſpoſitions and virtuous comportments; the two firſt dyed in their young age without iſſue; the Lady <hi>Mary</hi> is ſtill living, and hath iſſue one Son by her firſt husband (the grandchild by the Fa<g ref="char:EOLhyphen"/>thers ſide of <hi>Thomas</hi> Lord <hi>Arundell of Wardour,</hi> and Count Imperial, and by the Mothers of the Lord Viſcount <hi>Montacute</hi>) and both Sons and Daugh<g ref="char:EOLhyphen"/>ters by her ſecond husband the bro<g ref="char:EOLhyphen"/>ther
+<pb n="61" facs="tcp:135688:32"/>and heir apparent of <hi>James</hi> Lord <hi>Studly</hi> and Earl of <hi>Caſtle-haven.</hi>
+               </p>
+               <p>Gods holy Name be bleſſed for having given her the Grace to leade ſo holy a life, and make ſo happy an end, and may we by his grace and favour through the mercies of Chriſt profit by the example of her virtues.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
